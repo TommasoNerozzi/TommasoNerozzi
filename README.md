@@ -1,6 +1,19 @@
 - 👋 Hi, I’m @TommasoNerozzi
-- 👀 I’m interested in Programming 👨🏼‍💻
-- 🌱 I’m currently learning PHP, JavaScript, and CSS
+
+- 👨🏼‍💻 Studying I.T. Engeneering
+
+- 🌱 I’m currently learning C++
+
+- 📚 Languages :
+  - Php
+  - JavaScript
+  - Java
+  - C
+- Others:
+  - HTML
+  - CSS
+
+
 - 📫 How to reach me? send me an email at tommasonerozzi@gmail.com
 
 <!---
